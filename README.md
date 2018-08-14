@@ -50,7 +50,7 @@ provide your credential
 
 ![image](https://user-images.githubusercontent.com/22134155/44082161-bfb64168-9fb0-11e8-956a-50b7bb433ec1.png)
 
-approve
+allow
 
 the script makes the authentication and call the api for displaying the user details
 and close the browser
